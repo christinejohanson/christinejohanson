@@ -1,10 +1,10 @@
 ### Hi there 👋
-#### Mitt namn är Christine och jag bor i Åre.
+#### My name is Christine and I´m a student at the Webdevelopment program at Miduniversity in Sundsvall, Sweden.
 :evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree:
 
-Jag går utbildningen **Webbutveckling** och kommer främst använda Github för uppgifter, exempel och tester.
+I´m gonna use Github for assignments, examples and tests.
 
-##### :mortar_board: Kurser i utbildningen Webbutveckling :mortar_board:
+##### :mortar_board: Courses in the Webdevelopment program :mortar_board:
 * Webbutveckling I
 * JavaScript :sweat_drops:
 * Digital bildbehandling för webb
@@ -12,7 +12,7 @@ Jag går utbildningen **Webbutveckling** och kommer främst använda Github för
 * Databasteknik  :sweat_drops:
 * Webbutveckling II
 
-##### På fritiden (när den finns) brukar jag
+##### In my leasure time (when that is) I usually
 :computer::iphone::vhs::basketball::bicyclist::snowboarder::musical_keyboard::art::coffee::icecream::mountain_cableway::snowflake:
 
 <!--
