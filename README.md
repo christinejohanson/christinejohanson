@@ -1,8 +1,8 @@
 ### Hi there 👋
-#### My name is Christine and I´m a student at the Webdevelopment program at Miduniversity in Sundsvall, Sweden. I started the education HT2022 and I´ll gradutate by June 2023.
+#### My name is Christine and I´m a web developer graduated from the Webdevelopment program at Miduniversity in Sundsvall, Sweden in June 2023.  
 :evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree:
 
-I´m gonna use Github for assignments, examples and tests.
+My Github consits of school assignments, examples and tests.
 
 ##### :mortar_board: Courses in the Webdevelopment program :mortar_board:
 * Webbutveckling I
