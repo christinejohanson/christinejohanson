@@ -25,7 +25,8 @@
 ##### In my leasure time (when that is) I usually
 :computer::iphone::vhs::basketball::bicyclist::snowboarder::musical_keyboard::art::coffee::icecream::mountain_cableway::snowflake:
 
-
+For more information visit my LinkedIn profile: 
+[LinkedIn](https://www.linkedin.com/in/christine-johanson-6b6a24128/)
 
 <!--
 **christinejohanson/christinejohanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
