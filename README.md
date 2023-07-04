@@ -31,6 +31,11 @@
 For more information visit my LinkedIn profile: 
 [LinkedIn](https://www.linkedin.com/in/christine-johanson-6b6a24128/)
 
+or visit my portfolio: 
+
+### [Christine Johanson](https://christinejohanson.se/)
+
+
 <!--
 **christinejohanson/christinejohanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
