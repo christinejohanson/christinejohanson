@@ -29,7 +29,7 @@
 :computer::iphone::vhs::basketball::bicyclist::snowboarder::musical_keyboard::art::coffee::icecream::mountain_cableway::snowflake:
 
 For more information visit my LinkedIn profile: 
-[LinkedIn](https://www.linkedin.com/in/christine-johanson-6b6a24128/)
+[LinkedIn](https://www.linkedin.com/in/christine-johanson)
 
 or visit my portfolio: 
 
