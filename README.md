@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,babel,cs,dotnet,docker,express,figma,git,github,gulp,ai,laravel,mongodb,mysql,nodejs,ps,php,sass,tailwind,vite,vscode,vue,webpack,wordpress,xd)](https://skillicons.dev)
 
 
-##### On my GitHub I will present some assignments and project I´ve done in school. 
+##### On my GitHub I will present some assignments and project I´ve done in school mixed with personal projects. 
 
 ##### :mortar_board: Courses in the Webdevelopment program :mortar_board:
 * Webbutveckling I
