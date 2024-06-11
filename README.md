@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Christine and I´m a web developer graduated in June 2023 from the Webdevelopment program at Miduniversity in Sundsvall, Sweden.
+#### My name is Christine and I´m a web developer graduated in June 2023 from the Webdevelopment program at Miduniversity in Sundsvall, Sweden. I live in Åre, Jämtland
 :evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree::deciduous_tree::evergreen_tree:
 
 ##### Right now I´m looking for exciting job opportunities and assignments. I´m eager to contribute my skills and learn from experienced professionals in the industry. 
